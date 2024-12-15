@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Dr. Anil Kumar Sharma",
+      "qualification": "MBBS, MD (Internal Medicine)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/65.jpg",
+      "description": "An experienced physician specializing in internal medicine with over 15 years of experience in treating chronic illnesses."
+    },
+    {
+      "name": "Dr. Priya Mehra",
+      "qualification": "MBBS, MS (Ophthalmology), FICO",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/44.jpg",
+      "description": "A renowned eye surgeon with expertise in cataract and refractive surgeries."
+    },
+    {
+      "name": "Dr. Ramesh Chand Gupta",
+      "qualification": "MBBS, MD (Pediatrics)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/57.jpg",
+      "description": "A compassionate pediatrician who has been providing care for children for over a decade."
+    },
+    {
+      "name": "Dr. Lakshmi Narayan Iyer",
+      "qualification": "BDS, MDS (Orthodontics)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/55.jpg",
+      "description": "A skilled orthodontist known for creating beautiful smiles using modern dental techniques."
+    },
+    {
+      "name": "Dr. Kavita Singh",
+      "qualification": "MBBS, DGO, DNB (Obstetrics & Gynecology)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/43.jpg",
+      "description": "An expert in women’s health, with a focus on high-risk pregnancies and infertility treatments."
+    },
+    {
+      "name": "Dr. Suresh Patel",
+      "qualification": "MBBS, MS (General Surgery), MCh (Urology)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/5.jpg",
+      "description": "A leading urologist known for his expertise in minimally invasive surgeries."
+    },
+    {
+      "name": "Dr. Anjali Nair",
+      "qualification": "MBBS, MD (Dermatology), DNB",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/26.jpg",
+      "description": "A dermatologist specializing in advanced skincare treatments and cosmetic procedures."
+    },
+    {
+      "name": "Dr. Vishal Deshmukh",
+      "qualification": "MBBS, MD (Radiology)",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/2.jpg",
+      "description": "A radiologist proficient in advanced imaging techniques such as CT and MRI scans."
+    },
+    {
+      "name": "Dr. Pooja Reddy",
+      "qualification": "MBBS, MS (ENT), DNB",
+      "image_url": "https://mighty.tools/mockmind-api/content/human/47.jpg",
+      "description": "An ENT specialist with a focus on endoscopic sinus surgery and hearing loss treatments."
+    },
+    {
+      "name": "Dr. Arvind Choudhary",
+      "qualification": "MBBS, MD (Anesthesiology), FIPM",
+      "image_url": "https://mighty.tools/mockmind-api/content/cartoon/10.jpg",
+      "description": "An anesthesiologist with expertise in pain management and critical care."
+    }
+  ]
